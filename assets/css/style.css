@@ -655,6 +655,7 @@ section {
 .portfolio .portfolio-wrap .portfolio-links a:hover {
   /*background: rgba(20, 157, 221, 0.95);*/
   background: rgba(12, 23, 121, 0.95);
+  cursor: pointer;
 }
 .portfolio .portfolio-wrap .portfolio-links a + a {
   border-left: 1px solid #37b3ed;
